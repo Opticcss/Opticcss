@@ -4,7 +4,7 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px" style="max-width: 100%;"> Hi there, I'm Optics_css</h1>
 
-A curious researcher passionate about Signal Processing.
+A curious researcher passionate about **Signal Processing**.
 
 I am a Ph.D student @ [Southeast University](https://www.seu.edu.cn/).
 
@@ -14,15 +14,15 @@ I am a Ph.D student @ [Southeast University](https://www.seu.edu.cn/).
 
 ### ⭐️ Blogs & Contributions
 
-You can checkout my blog [here](https://opticcss.github.io/Era_Pass/).
+You can checkout my blog [**here**](https://opticcss.github.io/Era_Pass/).
 
-> Feel free to explore my articles and projects, and connect with me on GitHub!
+Feel free to explore my articles and projects, and connect with me on GitHub!
 
 <!-- BLOG-POST-LIST:START -->
-- [Optics_css · Era_Pass](https://opticcss.github.io/Era_Pass/)
+- [**Optics_css · Era_Pass**](https://opticcss.github.io/Era_Pass/)
 <!-- BLOG-POST-LIST:END -->
 
-Hit me up anytime and let's explore new ideas together! 😺✨
+Hit me up anytime and let's explore new ideas together! (•̀ ω •́ )y
 
 <!-- SHIELD GROUP -->
 
