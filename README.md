@@ -26,7 +26,7 @@ Hit me up anytime and let's explore new ideas together! 😺✨
 
 <!-- SHIELD GROUP -->
 
-[banner]: ./assets/banner.webp
+[banner]: ./banner.webp
 [split]: https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png
 [social-email-link]: mailto:opticscss@gmail.com
 [social-email-shield]: https://img.shields.io/badge/-Email-black?labelColor=black&logo=gmail&logoColor=white&style=flat-square
