@@ -12,7 +12,7 @@ I am a **Ph.D student** @ [Southeast University](https://www.seu.edu.cn/).
 
 </div>
 
-### Blogs & Contributions
+### ⭐ Blogs & Contributions
 
 You can checkout my blog [**here**](https://opticcss.github.io/Era_Pass/).
 
