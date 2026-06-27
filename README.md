@@ -8,7 +8,7 @@ A curious researcher passionate about **Signal Processing**.
 
 I am a **Ph.D student** @ [Southeast University](https://www.seu.edu.cn/).
 
-![][split]
+<!-- ![][split] -->
 
 </div>
 
