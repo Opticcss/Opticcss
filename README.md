@@ -2,7 +2,7 @@
 
 <!-- ![][banner] -->
 
-<h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px" style="max-width: 100%;"> <b>Hi there, I'm Optic_css</b></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50px" style="max-width: 100%;"> <b>Hi there, I'm OpticCss</b></h1>
 
 A curious researcher passionate about **Signal Processing**.
 
